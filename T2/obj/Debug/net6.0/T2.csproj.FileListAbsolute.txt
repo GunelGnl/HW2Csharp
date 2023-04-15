@@ -1,0 +1,15 @@
+D:\CsharpLesson\Homework2\T2\bin\Debug\net6.0\T2.exe
+D:\CsharpLesson\Homework2\T2\bin\Debug\net6.0\T2.deps.json
+D:\CsharpLesson\Homework2\T2\bin\Debug\net6.0\T2.runtimeconfig.json
+D:\CsharpLesson\Homework2\T2\bin\Debug\net6.0\T2.dll
+D:\CsharpLesson\Homework2\T2\bin\Debug\net6.0\T2.pdb
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.csproj.AssemblyReference.cache
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.AssemblyInfoInputs.cache
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.AssemblyInfo.cs
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.csproj.CoreCompileInputs.cache
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.dll
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\refint\T2.dll
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.pdb
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\T2.genruntimeconfig.cache
+D:\CsharpLesson\Homework2\T2\obj\Debug\net6.0\ref\T2.dll
